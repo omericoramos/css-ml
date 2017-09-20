@@ -48,6 +48,7 @@ header{
     font-family: aller; src: url(http://ff.static.1001fonts.net/a/l/aller.regular.ttf);
     padding: 15px 0px 15px 0px;
     margin-bottom: 5px;
+    font-size:12px;
 }
 .info-produto span{
     padding-left: 15px; 
@@ -64,6 +65,7 @@ header{
     font-family: aller; src: url(http://ff.static.1001fonts.net/a/l/aller.regular.ttf);
     padding: 15px 0px 15px 0px;
     margin-bottom: 5px;
+    font-size:12px;
 }
 .carac-produto span{
     display: block;
